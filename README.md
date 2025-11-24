@@ -23,7 +23,7 @@
 ---
 
 ## 🖼 서비스 개요
-[아주대학교 파란학기제 성과발표회_sentense (1).pdf](https://github.com/user-attachments/files/23700448/_sentense.1.pdf)
+<img width="822" height="1075" alt="image" src="https://github.com/user-attachments/assets/d70f41aa-3448-4535-a1de-cedd0413d2d4" />
 
 
 ---
